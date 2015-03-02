@@ -14,9 +14,9 @@ Attribution to : "David Revoy, www.peppercarrot.com"
 
 ##Translators and correctors : 
 
-*French : David Revoy
-
-*English : David Revoy, Amireti
+* French : David Revoy
+* English : David Revoy, Amireti
+* Russian : Andrew "Akari" Alexeyew
 
 ##Fonts:
 
@@ -36,3 +36,7 @@ By Ruben Holthuijsen ( aka Rholt ), [reference](http://www.dafont.com/lavi.font)
 
 CC-0 / Public Domain [reference](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
 by Ray Larabie , rlarabie@hotmail.com
+
+###Blogger Sans-Italic.ttf
+
+[CC-BY](http://creativecommons.org/licenses/by/3.0/)
